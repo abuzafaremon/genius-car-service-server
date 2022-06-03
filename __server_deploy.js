@@ -21,7 +21,10 @@
  * 1. Make Changes
  * 2. make sure you: git add . > git commit -m > git push
  * 3. git push heroku main
- * -----------------
- * Connect Server with client
- * -----------------
+ * ---------------------------
+ * Connect Server with client 
+ * ---------------------------
+ * 1. replace localhost by heroku link
+ * 2. npm run build 
+ * 3. firebase deploy
  */
